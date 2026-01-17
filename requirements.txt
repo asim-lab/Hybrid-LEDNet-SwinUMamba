@@ -1,0 +1,16 @@
+torch==2.0.1
+torchvision==0.15.2
+timm
+numpy==1.21.6
+opencv-python-headless
+scikit-learn
+einops
+monai
+nnunetv2
+dynamic_network_architectures
+seg_metrics
+acvl_utils==0.2
+blosc2==2.0.0
+thop
+matplotlib
+Pillow
