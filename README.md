@@ -1,9 +1,5 @@
 # Hybrid LEDNet + Swin-UMamba for Skin Lesion Segmentation
-
-Official implementation of the paper:  
-**“A Hybrid Approach for Accurate Skin Lesion Segmentation Using LEDNet and Swin-UMamba”**  
-by *[Your Name]*, *[Affiliation]* (2026).
-
+  
 ---
 
 ## Overview
